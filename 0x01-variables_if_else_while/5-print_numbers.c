@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * Return 0(Success)
+ * main - print numbers from 0 to 10.
+ * Return: 0(Success)
  */
 int main(void)
-
 {
 	int i;
 
