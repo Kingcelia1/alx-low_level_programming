@@ -3,8 +3,8 @@
 /**
  * flip_bits - it counts the number of bits to change
  * to also get from one number to another
- * @n: number 0ne
- * @n: number two
+ * @n: number one
+ * @m: number two
  *
  * Return: the number of bits subject to change
  */
